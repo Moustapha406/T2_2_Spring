@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.4.1": {
+    "promptValues": {
+      "packageName": "sn.tp_2.com",
+      "nativeLanguage": "fr"
+    }
+  }
+}
